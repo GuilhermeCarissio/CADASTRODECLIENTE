@@ -2,7 +2,7 @@
 
 <h1>Realizei este projeto para aumentar meu portfólio e ter como princípio, trabalhos objetivos<h1/>
 
-<img width="1355" height="609" alt="Image" src="https://github.com/user-attachments/assets/5810d7cc-b3ce-4b2a-bb9e-ad469287ea70" />
+<img width="1121" height="551" alt="Image" src="https://github.com/user-attachments/assets/5d395150-283d-4eda-888a-3590243b62ca" />
 
 <h2>Tecnologias usadas<h2/>
 
